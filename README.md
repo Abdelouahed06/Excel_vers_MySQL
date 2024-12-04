@@ -17,5 +17,4 @@ This application allows users to import data from an Excel file into a MySQL dat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/excel-to-mysql.git
-   cd excel-to-mysql
+   git clone https://github.com/Abdelouahed06/Excel_vers_MySQL.git
